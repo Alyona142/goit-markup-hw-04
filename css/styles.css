@@ -483,7 +483,7 @@ footer {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
-    display: inline-block
+    display: inline-block;
 }
 
 .logo-footer {
@@ -495,7 +495,6 @@ footer {
     text-transform: uppercase;
     color: #f4f4fd;
     display: inline-block;
-    /* padding: 16px; */
 }
 
 .text-logo {
@@ -520,6 +519,7 @@ footer {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
+    justify-content: center;
 }
 
 .icon-list {
